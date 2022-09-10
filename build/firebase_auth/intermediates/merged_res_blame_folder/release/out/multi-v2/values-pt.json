@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-10:/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\abudeif\\.gradle\\caches\\transforms-3\\dfbbfbbf5749261e07c2d3ecd9c59832\\transformed\\core-1.6.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "487",
+                        "endColumns": "100",
+                        "endOffsets": "583"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\abudeif\\.gradle\\caches\\transforms-3\\d458f2f0a50c2bb6bbe10a9a5b8bb6d5\\transformed\\browser-1.4.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "165,264,376,482"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "io.flutter.plugins.firebase.auth.firebase_auth-merged_res-12:/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\abudeif\\.gradle\\caches\\transforms-3\\dfbbfbbf5749261e07c2d3ecd9c59832\\transformed\\core-1.6.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "487",
+                        "endColumns": "100",
+                        "endOffsets": "583"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\abudeif\\.gradle\\caches\\transforms-3\\d458f2f0a50c2bb6bbe10a9a5b8bb6d5\\transformed\\browser-1.4.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "165,264,376,482"
+                    }
+                }
+            ]
+        }
+    ]
+}

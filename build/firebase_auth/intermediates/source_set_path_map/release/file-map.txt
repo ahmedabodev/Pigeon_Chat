@@ -1,0 +1,17 @@
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-base-17.1.0-0 C:\Users\abudeif\.gradle\caches\transforms-3\149c53d78d1b5d2e318b2091dfc883d3\transformed\jetified-play-services-base-17.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-java-1.0.0-beta04-1 C:\Users\abudeif\.gradle\caches\transforms-3\2795732ad233800343b1b0201b7044d4\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-annotation-experimental-1.1.0-2 C:\Users\abudeif\.gradle\caches\transforms-3\45cd99fb8d46d3dafa4db503cb961f7b\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-basement-18.0.0-3 C:\Users\abudeif\.gradle\caches\transforms-3\87fca60d0ef6aa44768885e47d1fd6a8\transformed\jetified-play-services-basement-18.0.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-firebase-common-20.1.1-4 C:\Users\abudeif\.gradle\caches\transforms-3\b415e0256838bb577a9e71a5c41e6208\transformed\jetified-firebase-common-20.1.1\res
+io.flutter.plugins.firebase.auth.firebase_auth-browser-1.4.0-5 C:\Users\abudeif\.gradle\caches\transforms-3\d458f2f0a50c2bb6bbe10a9a5b8bb6d5\transformed\browser-1.4.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-1.0.0-beta04-6 C:\Users\abudeif\.gradle\caches\transforms-3\d8d3199b27613706f162b20b62a67adc\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-core-1.6.0-7 C:\Users\abudeif\.gradle\caches\transforms-3\dfbbfbbf5749261e07c2d3ecd9c59832\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-pngs-8 C:\Users\abudeif\StudioProjects\firebase_testing\build\firebase_auth\generated\res\pngs\release
+io.flutter.plugins.firebase.auth.firebase_auth-resValues-9 C:\Users\abudeif\StudioProjects\firebase_testing\build\firebase_auth\generated\res\resValues\release
+io.flutter.plugins.firebase.auth.firebase_auth-rs-10 C:\Users\abudeif\StudioProjects\firebase_testing\build\firebase_auth\generated\res\rs\release
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-11 C:\Users\abudeif\StudioProjects\firebase_testing\build\firebase_auth\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-12 C:\Users\abudeif\StudioProjects\firebase_testing\build\firebase_auth\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.auth.firebase_auth-merged_res-13 C:\Users\abudeif\StudioProjects\firebase_testing\build\firebase_auth\intermediates\merged_res\release
+io.flutter.plugins.firebase.auth.firebase_auth-packaged_res-14 C:\Users\abudeif\StudioProjects\firebase_testing\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.auth.firebase_auth-main-15 C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth-3.6.3\android\src\main\res
+io.flutter.plugins.firebase.auth.firebase_auth-release-16 C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth-3.6.3\android\src\release\res

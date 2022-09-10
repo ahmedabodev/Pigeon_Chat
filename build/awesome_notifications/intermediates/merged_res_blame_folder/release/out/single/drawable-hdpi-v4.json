@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "me.carda.awesome_notifications-merged_res-12:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "me.carda.awesome_notifications-core-1.7.0-3:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "me.carda.awesome_notifications-merged_res-12:/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "me.carda.awesome_notifications-core-1.7.0-3:/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "me.carda.awesome_notifications-merged_res-12:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "me.carda.awesome_notifications-core-1.7.0-3:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "me.carda.awesome_notifications-merged_res-12:/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "me.carda.awesome_notifications-core-1.7.0-3:/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "me.carda.awesome_notifications-merged_res-12:/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "me.carda.awesome_notifications-core-1.7.0-3:/drawable-hdpi-v4/notification_bg_normal.9.png"
+    }
+]

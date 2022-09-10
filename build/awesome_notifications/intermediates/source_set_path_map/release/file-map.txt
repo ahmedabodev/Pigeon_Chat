@@ -1,0 +1,16 @@
+me.carda.awesome_notifications-coordinatorlayout-1.0.0-0 C:\Users\abudeif\.gradle\caches\transforms-3\0dab3a2952a8357262d93898ad93d9a3\transformed\coordinatorlayout-1.0.0\res
+me.carda.awesome_notifications-jetified-window-java-1.0.0-beta04-1 C:\Users\abudeif\.gradle\caches\transforms-3\2795732ad233800343b1b0201b7044d4\transformed\jetified-window-java-1.0.0-beta04\res
+me.carda.awesome_notifications-jetified-annotation-experimental-1.1.0-2 C:\Users\abudeif\.gradle\caches\transforms-3\45cd99fb8d46d3dafa4db503cb961f7b\transformed\jetified-annotation-experimental-1.1.0\res
+me.carda.awesome_notifications-core-1.7.0-3 C:\Users\abudeif\.gradle\caches\transforms-3\540432d9fd2ff388742964d49f536aaf\transformed\core-1.7.0\res
+me.carda.awesome_notifications-media-1.0.0-4 C:\Users\abudeif\.gradle\caches\transforms-3\7e39b8120a84ed2cd4aa113604bc4697\transformed\media-1.0.0\res
+me.carda.awesome_notifications-localbroadcastmanager-1.1.0-5 C:\Users\abudeif\.gradle\caches\transforms-3\93b3e27e82b28705b0f0797c0ca325fc\transformed\localbroadcastmanager-1.1.0\res
+me.carda.awesome_notifications-jetified-window-1.0.0-beta04-6 C:\Users\abudeif\.gradle\caches\transforms-3\d8d3199b27613706f162b20b62a67adc\transformed\jetified-window-1.0.0-beta04\res
+me.carda.awesome_notifications-lifecycle-runtime-2.3.1-7 C:\Users\abudeif\.gradle\caches\transforms-3\de13ae27e3bccb0a814eb0be4ad0a0c4\transformed\lifecycle-runtime-2.3.1\res
+me.carda.awesome_notifications-pngs-8 C:\Users\abudeif\StudioProjects\firebase_testing\build\awesome_notifications\generated\res\pngs\release
+me.carda.awesome_notifications-resValues-9 C:\Users\abudeif\StudioProjects\firebase_testing\build\awesome_notifications\generated\res\resValues\release
+me.carda.awesome_notifications-rs-10 C:\Users\abudeif\StudioProjects\firebase_testing\build\awesome_notifications\generated\res\rs\release
+me.carda.awesome_notifications-mergeReleaseResources-11 C:\Users\abudeif\StudioProjects\firebase_testing\build\awesome_notifications\intermediates\incremental\release\mergeReleaseResources\merged.dir
+me.carda.awesome_notifications-mergeReleaseResources-12 C:\Users\abudeif\StudioProjects\firebase_testing\build\awesome_notifications\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+me.carda.awesome_notifications-merged_res-13 C:\Users\abudeif\StudioProjects\firebase_testing\build\awesome_notifications\intermediates\merged_res\release
+me.carda.awesome_notifications-main-14 C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\awesome_notifications-0.6.21\android\src\main\res
+me.carda.awesome_notifications-release-15 C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\awesome_notifications-0.6.21\android\src\release\res

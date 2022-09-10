@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "me.carda.awesome_notifications-merged_res-12:/menu/example_menu2.xml",
+        "source": "me.carda.awesome_notifications-core-1.7.0-3:/menu/example_menu2.xml"
+    },
+    {
+        "merged": "me.carda.awesome_notifications-merged_res-12:/menu/example_menu.xml",
+        "source": "me.carda.awesome_notifications-core-1.7.0-3:/menu/example_menu.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "me.carda.awesome_notifications-merged_res-12:/drawable/notification_icon_background.xml",
+        "source": "me.carda.awesome_notifications-core-1.7.0-3:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "me.carda.awesome_notifications-merged_res-12:/drawable/notification_bg.xml",
+        "source": "me.carda.awesome_notifications-core-1.7.0-3:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "me.carda.awesome_notifications-merged_res-12:/drawable/notification_tile_bg.xml",
+        "source": "me.carda.awesome_notifications-core-1.7.0-3:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "me.carda.awesome_notifications-merged_res-12:/drawable/notification_bg_low.xml",
+        "source": "me.carda.awesome_notifications-core-1.7.0-3:/drawable/notification_bg_low.xml"
+    }
+]

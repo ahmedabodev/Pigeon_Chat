@@ -1,0 +1,12 @@
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-0 C:\Users\abudeif\.gradle\caches\transforms-3\2795732ad233800343b1b0201b7044d4\transformed\jetified-window-java-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-1 C:\Users\abudeif\.gradle\caches\transforms-3\45cd99fb8d46d3dafa4db503cb961f7b\transformed\jetified-annotation-experimental-1.1.0\res
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-2 C:\Users\abudeif\.gradle\caches\transforms-3\d8d3199b27613706f162b20b62a67adc\transformed\jetified-window-1.0.0-beta04\res
+com.tekartik.sqflite-core-1.6.0-3 C:\Users\abudeif\.gradle\caches\transforms-3\dfbbfbbf5749261e07c2d3ecd9c59832\transformed\core-1.6.0\res
+com.tekartik.sqflite-pngs-4 C:\Users\abudeif\StudioProjects\firebase_testing\build\sqflite\generated\res\pngs\release
+com.tekartik.sqflite-resValues-5 C:\Users\abudeif\StudioProjects\firebase_testing\build\sqflite\generated\res\resValues\release
+com.tekartik.sqflite-rs-6 C:\Users\abudeif\StudioProjects\firebase_testing\build\sqflite\generated\res\rs\release
+com.tekartik.sqflite-mergeReleaseResources-7 C:\Users\abudeif\StudioProjects\firebase_testing\build\sqflite\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tekartik.sqflite-mergeReleaseResources-8 C:\Users\abudeif\StudioProjects\firebase_testing\build\sqflite\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tekartik.sqflite-merged_res-9 C:\Users\abudeif\StudioProjects\firebase_testing\build\sqflite\intermediates\merged_res\release
+com.tekartik.sqflite-main-10 C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\sqflite-2.0.3+1\android\src\main\res
+com.tekartik.sqflite-release-11 C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\sqflite-2.0.3+1\android\src\release\res
